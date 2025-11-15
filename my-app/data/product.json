@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones X1",
+      "price": 59.99,
+      "image": "https://via.placeholder.com/300x300?text=Headphones",
+      "description": "High-quality wireless headphones with HD sound and 12-hour battery life."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch S20",
+      "price": 89.50,
+      "image": "https://via.placeholder.com/300x300?text=Smart+Watch",
+      "description": "Smartwatch with heart-rate monitor, sleep tracking, and waterproof design."
+    },
+    {
+      "id": 3,
+      "name": "Casual Men's Shoes",
+      "price": 42.00,
+      "image": "https://via.placeholder.com/300x300?text=Shoes",
+      "description": "Comfortable everyday shoes with breathable material."
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra HD TV",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/300x300?text=4K+TV",
+      "description": "Ultra-sharp 4K TV with vibrant colors and a slim modern design."
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker Mini",
+      "price": 29.99,
+      "image": "https://via.placeholder.com/300x300?text=Speaker",
+      "description": "Portable mini speaker with powerful sound and long-lasting battery."
+    },
+    {
+      "id": 6,
+      "name": "Gaming Mouse RGB",
+      "price": 25.90,
+      "image": "https://via.placeholder.com/300x300?text=Gaming+Mouse",
+      "description": "RGB gaming mouse with 7200 DPI precision and ergonomic grip."
+    },
+    {
+      "id": 7,
+      "name": "Laptop Bag 15-inch",
+      "price": 19.99,
+      "image": "https://via.placeholder.com/300x300?text=Laptop+Bag",
+      "description": "Water-resistant laptop bag suitable for 15-inch devices."
+    },
+    {
+      "id": 8,
+      "name": "Power Bank 20000mAh",
+      "price": 34.99,
+      "image": "https://via.placeholder.com/300x300?text=Power+Bank",
+      "description": "High-capacity power bank with fast charging support."
+    },
+    {
+      "id": 9,
+      "name": "Wireless Keyboard",
+      "price": 27.40,
+      "image": "https://via.placeholder.com/300x300?text=Keyboard",
+      "description": "Silent wireless keyboard with long battery performance."
+    },
+    {
+      "id": 10,
+      "name": "Drone Mini Pro",
+      "price": 129.99,
+      "image": "https://via.placeholder.com/300x300?text=Drone",
+      "description": "Compact drone with HD camera and remote control."
+    },
+    {
+      "id": 11,
+      "name": "Women's Classic Handbag",
+      "price": 52.00,
+      "image": "https://via.placeholder.com/300x300?text=Handbag",
+      "description": "Elegant women's handbag with classic leather design."
+    },
+    {
+      "id": 12,
+      "name": "Wireless Charger Pad",
+      "price": 18.50,
+      "image": "https://via.placeholder.com/300x300?text=Charger",
+      "description": "Fast wireless charging pad with universal compatibility."
+    },
+    {
+      "id": 13,
+      "name": "Smart LED Lamp",
+      "price": 12.99,
+      "image": "https://via.placeholder.com/300x300?text=LED+Lamp",
+      "description": "Smart LED lamp with app control and adjustable brightness."
+    },
+    {
+      "id": 14,
+      "name": "Electric Toothbrush Pro",
+      "price": 39.99,
+      "image": "https://via.placeholder.com/300x300?text=Toothbrush",
+      "description": "Electric toothbrush with advanced cleaning and smart timer."
+    },
+    {
+      "id": 15,
+      "name": "Kids Toy Car",
+      "price": 14.20,
+      "image": "https://via.placeholder.com/300x300?text=Toy+Car",
+      "description": "Colorful toy car suitable for kids aged 3 and above."
+    },
+    {
+      "id": 16,
+      "name": "Mini Coffee Maker",
+      "price": 65.00,
+      "image": "https://via.placeholder.com/300x300?text=Coffee+Maker",
+      "description": "Compact coffee maker designed for home and small offices."
+    },
+    {
+      "id": 17,
+      "name": "Office Chair SoftPad",
+      "price": 89.00,
+      "image": "https://via.placeholder.com/300x300?text=Office+Chair",
+      "description": "Ergonomic office chair with soft padding and adjustable height."
+    },
+    {
+      "id": 18,
+      "name": "Digital Thermometer",
+      "price": 9.99,
+      "image": "https://via.placeholder.com/300x300?text=Thermometer",
+      "description": "Accurate digital thermometer for quick temperature readings."
+    },
+    {
+      "id": 19,
+      "name": "USB Flash Drive 64GB",
+      "price": 11.40,
+      "image": "https://via.placeholder.com/300x300?text=Flash+Drive",
+      "description": "High-speed 64GB flash drive for fast file transfers."
+    },
+    {
+      "id": 20,
+      "name": "Bluetooth Earbuds Pro",
+      "price": 44.99,
+      "image": "https://via.placeholder.com/300x300?text=Earbuds",
+      "description": "Wireless earbuds with noise-cancelling microphone."
+    }
+  ]
+  
