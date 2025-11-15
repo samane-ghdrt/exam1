@@ -36,13 +36,13 @@ export default function HEADER(){
 
     //   </Box>
     // </Box>
-    <Box sx={{height:"100px", background:"blue"}}>
+    <Box sx={{height:"100px", background:"#49565a"}}>
  <ShoppingCartIcon />
- <Typography>
-All Your digital Products
-<br/>
-Is one click Away.
- </Typography>
+ <Box sx={{ display:'flex',justifyContent:"center" ,alignItems:"start"}}>
+ <Typography variant='h6'>All Your digital Products</Typography>
+
+<Typography variant=''>Is one click Away.</Typography>
+ </Box>
     </Box>
         
     )
