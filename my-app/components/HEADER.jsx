@@ -36,10 +36,11 @@ export default function HEADER(){
 
     //   </Box>
     // </Box>
-    <Box sx={{height:"100px", background:"#49565a"}}>
- <ShoppingCartIcon />
- <Box sx={{ display:'flex',justifyContent:"center" ,alignItems:"start"}}>
- <Typography variant='h6'>All Your digital Products</Typography>
+    <Box sx={{height:"200px", background:"#93a9ad"}}>
+        <Box sx={{ display:'flex', flexDirection:"column" ,alignItems:"end", marginTop:"10px" }}>
+ <ShoppingCartIcon /></Box>
+ <Box sx={{ display:'flex', flexDirection:"column",justifyContent:"center" ,alignItems:"center", marginTop:"20px"}}>
+ <Typography variant='h5'>All Your digital Products</Typography>
 
 <Typography variant=''>Is one click Away.</Typography>
  </Box>
