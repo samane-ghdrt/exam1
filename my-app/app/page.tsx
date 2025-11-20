@@ -1,5 +1,4 @@
 "use client";
-
 import Image from "next/image";
 import HEADER from "../components/HEADER"
 import CARD from "../components/CARD";
